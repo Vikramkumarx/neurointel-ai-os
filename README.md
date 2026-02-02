@@ -7,6 +7,22 @@
 
 ---
 
+## 📸 Live System Preview
+
+### 1. The Operator Login Terminal
+*Secure, biometric-style authentication system for medical personnel.*
+
+![Login Screen](https://github.com/user-attachments/assets/placeholder-login)
+*(Replace with your Login Screenshot)*
+
+### 2. The Clinical Dashboard
+*Real-time monitoring of uploads, system health, and AI diagnostic cues.*
+
+![Dashboard](https://github.com/user-attachments/assets/placeholder-dashboard)
+*(Replace with your Dashboard Screenshot)*
+
+---
+
 ## ⚡ Overview
 **NeuroIntel AI OS** is a high-fidelity, web-based operating system designed for modern neurologists. Unlike traditional, clunky medical software, NeuroIntel provides a **Minority Report-style** glassmorphism interface for uploading, visualizing, and analyzing high-resolution MRI scan sequences in real-time.
 
@@ -19,6 +35,27 @@ It combines **Socket.io** real-time streaming with a simulated **Deep Learning E
 *   **🧠 AI Diagnostics Engine**: Automated detection of anomalies with confidence scoring and heatmap generation (Simulated).
 *   **🔐 Secure Operator Access**: JWT-encrypted authentication for secure operator sessions.
 *   **☁️ Universal Deployment**: Dockerized architecture ready for Cloud, On-Premise, or Edge deployment.
+
+---
+
+## 🕹️ Use Case Workflow (Step-by-Step)
+
+### Step 1: Initialization
+Access the system via the secure portal. Enter your **Operator ID** and **Access Key**. The system performs a handshake check with the MongoDB Atlas cloud cluster.
+
+### Step 2: Data Ingestion (Upload)
+Navigate to the **"Neural Upload"** terminal. Drag and drop high-resolution MRI video sequences (MP4). The system uses **Stream Buffering** to handle large datasets without blocking the thread.
+
+### Step 3: AI Processing
+Once uploaded, the **"Cortex Engine"** begins analysis automatically. Watch the real-time progress bars as the AI scans for:
+*   [x] Cortical anomalies
+*   [x] Tumor density
+*   [x] Neural pathway integrity
+
+### Step 4: Diagnostic Output
+Upon completion, the system generates a **Diagnostic Report Card** with a confidence score (e.g., "98% Normal").
+
+---
 
 ## 🛠️ Tech Stack
 
