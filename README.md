@@ -3,6 +3,8 @@
 > **The Future of Clinical Diagnostics.**  
 > *A Next-Generation "Cyber-Clinical" Operating System for Real-time Neuro-Imaging & AI Analysis.*
 
+[![Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-Hugging_Face-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/DeSeRtSoUl/neurointel-ai-os)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Build](https://img.shields.io/badge/build-passing-green.svg) ![AI](https://img.shields.io/badge/AI-Powered-purple.svg)
 
 ---
