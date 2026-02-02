@@ -9,22 +9,6 @@
 
 ---
 
-## 📸 Live System Preview
-
-### 1. The Operator Login Terminal
-*Secure, biometric-style authentication system for medical personnel.*
-
-![Login Screen](https://github.com/user-attachments/assets/placeholder-login)
-*(Replace with your Login Screenshot)*
-
-### 2. The Clinical Dashboard
-*Real-time monitoring of uploads, system health, and AI diagnostic cues.*
-
-![Dashboard](https://github.com/user-attachments/assets/placeholder-dashboard)
-*(Replace with your Dashboard Screenshot)*
-
----
-
 ## ⚡ Overview
 **NeuroIntel AI OS** is a high-fidelity, web-based operating system designed for modern neurologists. Unlike traditional, clunky medical software, NeuroIntel provides a **Minority Report-style** glassmorphism interface for uploading, visualizing, and analyzing high-resolution MRI scan sequences in real-time.
 
